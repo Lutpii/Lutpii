@@ -1,0 +1,8 @@
+D:\Visual studio\VSCODE 22\Kodingan\PAW 2\PAW 2\bin\Debug\PAW 2.exe.config
+D:\Visual studio\VSCODE 22\Kodingan\PAW 2\PAW 2\bin\Debug\PAW 2.exe
+D:\Visual studio\VSCODE 22\Kodingan\PAW 2\PAW 2\bin\Debug\PAW 2.pdb
+D:\Visual studio\VSCODE 22\Kodingan\PAW 2\PAW 2\obj\Debug\PAW 2.csproj.AssemblyReference.cache
+D:\Visual studio\VSCODE 22\Kodingan\PAW 2\PAW 2\obj\Debug\PAW 2.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\VSCODE 22\Kodingan\PAW 2\PAW 2\obj\Debug\PAW 2.csproj.CoreCompileInputs.cache
+D:\Visual studio\VSCODE 22\Kodingan\PAW 2\PAW 2\obj\Debug\PAW 2.exe
+D:\Visual studio\VSCODE 22\Kodingan\PAW 2\PAW 2\obj\Debug\PAW 2.pdb
